@@ -56,23 +56,34 @@ GROUP BY name, race ORDER BY race
 
 Data definition language (DDL) is a group of data definition operations. In other words, with the help of an action included in this group, we determine the presence of a database and work with objects, i.e. create, modify and delete them.
 This group includes possible operators:
+
 *CREATE - used to create database objects.
+
 *ALTER - used to change database objects.
+
 *DROP - used to remove database objects.
 
 Data Manipulation Language (DML) is a group of operators for data manipulation. With the help of these operators, we can add, modify, delete and unload data from the database, i.e. manipulate them.
 This group includes the most common SQL statements:
+
 *SELECT - fetches data.
+
 *INSERT - adds new data.
+
 *UPDATE - changes existing data.
+
 *DELETE - deletes data.
 
 Data Control Language (DCL) - a group of operators for defining data access. In other words, these are operators for managing permissions, with the help of them we can allow or prohibit the performance of certain operations on database objects.
 
 This includes:
+
 *GRANT - grants a user or group permissions to perform certain operations on an object;
+
 *REVOKE - revokes issued permissions;
+
 *DENY - sets the prohibition, which has priority over the permission.
+
 
 ![](Screenshots/7.jpg)
 
