@@ -121,5 +121,17 @@ The mysqldump client utility performs logical backups, producing a set of SQL st
 
 ## Part 3
 
-### 3.1 Create MongoDB table
+### 3.1 Install MongoDB 
+Installed mongo db on windows
+
+![](Screenshots/21.jpg)
+
+### 3.2 Create collection in the database test
+![](Screenshots/22.jpg)
+
+### 3.3 Create and complete some documents
+
+![](Screenshots/23.jpg)
+
+![](Screenshots/24.jpg)
 
